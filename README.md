@@ -1,2 +1,2 @@
 # Scheduling-with-Toposort
-set the schedule of courses taken each semester
+Set the schedule of courses taken each semester
